@@ -60,4 +60,7 @@ Author
 Mandar Mundaware  
 Unity Developer | Level Designer  
 
-Thank you for playing! 🎰
+Thank you for playing!
+
+
+
