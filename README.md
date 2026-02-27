@@ -32,7 +32,7 @@ How To Play
 
 1. Click the **Spin** button.
 2. Wait for reels to stop.
-3. If all 3 symbols match → You Win 🎉
+3. If all 3 symbols match → You Win 
 4. Otherwise → Try Again!
 
 ---
